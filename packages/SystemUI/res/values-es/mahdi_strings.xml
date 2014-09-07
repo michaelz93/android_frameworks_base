@@ -226,4 +226,32 @@
     <string name="pie_phone_status_no_service">Sin servicio</string>
     <string name="pie_phone_status_airplane_mode">Modo avión on</string>
     <string name="pie_phone_status_emergency_only">Sólo llamadas de emergencia</string>
+    
+    <!-- Smart PullDown Warning -->
+    <string name="smart_pulldown_disabled">Menu desplegable inteligente esta desactivado</string>
+    
+    <!-- Navigation bar IME navigation -->
+    <string name="accessibility_ime_navigation_left">Cursor izquierdo</string>
+    <string name="accessibility_ime_navigation_right">Cursor derecho</string>
+    
+    <!-- Title shown in notification popup for launching notification in floating mode -->
+    <string name="status_bar_notification_floating_item_title">Modo flotante</string>
+   
+    <!-- Title shown in recents popup for showing app in floating mode -->
+    <string name="status_bar_recent_floating_item_title">Modo Flotante</string>
+   
+    <!-- Blacklisted app for floating mode -->
+    <string name="floating_mode_blacklisted_app">La aplicacion actual esta en la lista negra, y puede que no funcione como espere en modo flotante </string>
+    
+    <!-- Title shown when app provides no interface -->
+    <string name="status_bar_floating_no_interface">App no ofrece interfaz</string>
+    
+    <!-- Content description for the add quick settings tile button. [CHAR LIMIT=NONE] -->
+    <string name="accessibility_desc_add_quick_settings">Agregar configuraciónes rapidas.</string>
+   
+    <!-- Heads up -->
+    <string name="heads_up_snooze_message">Heads up esta desactivado por <xliff:g id="number">%d</xliff:g> minutos.</string>
+    
+    <!-- Spam notifications -->
+    <string name="status_bar_notification_spam_item_title">Bloquear mensajes como estos</string>
 </resources>
